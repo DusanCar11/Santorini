@@ -1,0 +1,24 @@
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.exe.config
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.csprojResolveAssemblyReference.cache
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.choiceWindow.resources
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.mainWindow.resources
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.difficultyWindow.resources
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.Properties.Resources.resources
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.csproj.GenerateResource.Cache
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.gameWindow.resources
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.exe
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.pdb
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.exe
+C:\Users\dusan\Desktop\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.pdb
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.exe.config
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.exe
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\bin\Debug\SantoriniGUI.pdb
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.csprojResolveAssemblyReference.cache
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.choiceWindow.resources
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.mainWindow.resources
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.difficultyWindow.resources
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\etf.santorini.nd160604d.gameWindow.resources
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.Properties.Resources.resources
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.csproj.GenerateResource.Cache
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.exe
+D:\Jedan fakultetcic\godina treca\Peti semestar\IS\SantoriniGUI\SantoriniGUI\obj\Debug\SantoriniGUI.pdb
