@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace etf.santorini.nd160604d {
     class Ucitavac {
 
-        private static String path = "C:\\Users\\etf.santorini.nd160604d\\Desktop\\SantoriniGUI\\InputFile";
+        private static String path = "..\\InputFile";
 
         public static void ucitajPoziciju() {
             String[] lines = System.IO.File.ReadAllLines(path);
