@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace etf.santorini.nd160604d {
     class Ispisivac {
 
-        private static String path = "C:\\Users\\dusan\\Desktop\\SantoriniGUI\\OutputFile";
+        private static String path = "..\\OutputFile";
 
         public static void open() {
             System.IO.File.WriteAllText(path,"");
